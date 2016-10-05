@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "jade": "^1.11.0"
+  },
+  "engines": {
+    "node": "4.2.3"
   }
 }
